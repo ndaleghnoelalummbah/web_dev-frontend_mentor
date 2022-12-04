@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/ndaleghnoelalummbah/web_dev-frontend_mentor)
-- Live Site URL:  https://ndaleghnoelalummbah.github.io/web_dev-frontend_mentor/
+- Live Site URL:https://ndaleghnoelalummbah.github.io/product-preview-card-component-main/
 
 ## My process
 
@@ -73,9 +73,9 @@ I intend to work next on making a responsive navbar.
 
 ## Author
 
-- Website - [Ndalegh Noela Lum Mbah](https://www.your-site.com)
-- Frontend Mentor - [@Ndalegh_Noela](https://www.frontendmentor.io/profile/Ndalegh_Noela)
-- Twitter - [@Ndalegh_Noela](https://www.twitter.com/Ndalegh_Noela)
+- Website (https://github.com/ndaleghnoelalummbah)
+- Frontend Mentor (https://www.frontendmentor.io/profile/ndaleghnoelalummbah)
+- Twitter (https://www.twitter.com/Ndalegh_Noela)
 
 
 
